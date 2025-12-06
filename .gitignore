@@ -1,0 +1,63 @@
+# Vivado project files
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.wcfg
+*.backup*
+
+# Vivado project directories
+elevator_project/
+elevator_synth/
+.Xil/
+.cache/
+
+# Simulation files
+xsim.dir/
+*.vcd
+*.ghw
+*.fst
+*.shm
+*.diag
+
+# Synthesis and implementation outputs
+*.bit
+*.bin
+*.mcs
+*.prm
+*.dcp
+*.ltx
+
+# Reports
+*.rpt
+*.xml
+*.html
+
+# IP core files (if generated)
+*.xci
+*.xco
+managed_ip_project/
+
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Exclude compiled libraries
+work/
+unisim/
+secureip/
+
+# Hardware debug files
+*.ltx
+*.sysdef
+
+# Keep documentation and source files
+!*.md
+!*.vhd
+!*.xdc
+!*.tcl
+!README.md
