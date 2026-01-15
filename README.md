@@ -7,5 +7,3 @@ Asansör; bekleme, yukarı hareket, aşağı hareket, kapı açma ve kapı kapam
 Tasarımda aşırı yük ve acil durum senaryoları özellikle ele alınmıştır. Bu durumlarda motorlar durdurulur ve kapı güvenlik amacıyla açık tutulur. Çağrılar bir kuyruk yapısında saklandığı için birden fazla isteğin kaybolmadan işlenmesi sağlanır.
 
 Proje, farklı senaryoları kapsayan testbench’ler ile simülasyon ortamında doğrulanmıştır. Simülasyon çıktılarında asansörün sırasıyla hangi kata gittiği, motor ve kapı sinyallerinin doğru zamanda aktif olduğu gözlemlenmiştir.
-
-İstersen 1 paragraf daha da kısa, ya da# create_elevator_with_VHDL
